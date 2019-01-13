@@ -37,3 +37,19 @@ body {
 .card {
   height: 100%;
 }
+
+.homepage-title {
+  position: absolute;
+  right: 0;
+  top: 10px;
+  left: 0;
+  z-index: 15;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding-left: 0;
+  margin-right: 15%;
+  margin-left: 15%;
+  list-style: none;
+}
