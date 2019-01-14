@@ -53,3 +53,12 @@ body {
   margin-left: 15%;
   list-style: none;
 }
+
+.image-rotate-90 {
+transform:rotate(90deg);
+
+webkit-transform:rotate(90deg);
+
+/*You should handle several browsers*/ 
+
+}
